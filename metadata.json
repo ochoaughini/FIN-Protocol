@@ -1,0 +1,26 @@
+{
+  "title": "FIN Protocol: Framework for Intelligent Narratives in Clinical Reasoning",
+  "version": "1.0",
+  "creators": [
+    {
+      "name": "Augusto Ochoa Ughini, MD",
+      "orcid": "https://orcid.org/0009-0008-2406-2835",
+      "affiliation": "Independent Radiologist and Cognitive System Architect"
+    }
+  ],
+  "description": "The FIN Protocol™ is a cognitive simulation framework designed to model, document, and audit diagnostic reasoning in clinical contexts. It formalizes semantic anchoring, echo tracking, and structured clinical narratives.",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "clinical reasoning",
+    "semantic anchoring",
+    "cognitive systems",
+    "narrative simulation",
+    "medical epistemology",
+    "auditability",
+    "semantic interoperability"
+  ],
+  "publication_date": "2025-05-04",
+  "repository": "https://github.com/ochoaughini/fin1.0",
+  "language": "en",
+  "resource_type": "framework"
+}

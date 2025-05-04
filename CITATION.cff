@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this protocol, please cite it as below."
+title: "FIN Protocol: Framework for Intelligent Narratives in Clinical Reasoning"
+version: "1.0"
+doi: ""
+authors:
+  - family-names: "Ughini"
+    given-names: "Augusto Ochoa"
+    orcid: "https://orcid.org/0009-0008-2406-2835"
+    affiliation: "Independent Radiologist and Cognitive System Architect"
+date-released: "2025-05-04"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/ochoaughini/fin1.0"
